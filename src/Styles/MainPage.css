@@ -1,0 +1,69 @@
+
+.main_page_container{
+    padding: 0;
+    margin-top: 3%;
+}
+.input_container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.text_input{
+    background-color: white;
+    border:1;
+    border-color: #343a40;
+    padding-left: 1%;
+    padding-right: 1%;
+    align-self: flex-start;
+    font-family: 'Courier New', Courier, monospace;
+    color: #343a40;
+    font-weight: bold;
+    height: 100%;
+    width: 91%;
+}
+.text_input:focus{
+    outline: none
+}
+.text_button{
+    width: 8%;
+    margin-left: 1%;
+    background-color: #343a40;
+    color: white;
+    height: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text_button_clear{
+    width: 8%;
+    margin-left: 1%;
+    background-color: #198754;
+    color: white;
+    height: 100%;
+    font-family: 'Courier New', Courier, monospace
+}
+.loading{    
+    margin-top: 3%;
+}
+.content{
+    margin-top: 1%;
+    width: 100%;
+}
+.button_content{
+    border:0;
+    padding: 7%;
+    background-color: #343a40;
+    text-align: start;
+}
+.link_button{
+    align-self: flex-start;
+}
+.text_card{
+    padding:0;
+    margin:0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.card-body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

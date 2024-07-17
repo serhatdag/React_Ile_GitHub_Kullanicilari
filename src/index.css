@@ -1,0 +1,21 @@
+body{
+    background-color: #E6B9A6;
+}
+.my_navbar{
+    display: flex;
+    align-items: center;
+    padding-left: 2%;
+}
+.bi-github{
+    color:white
+}
+.navlink{
+    color: white;
+}
+.navbar_text{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 2%;
+    font-weight: bold;
+}
+
